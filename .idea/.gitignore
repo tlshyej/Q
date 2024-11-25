@@ -8,4 +8,7 @@
 /dataSources.local.xml
 
 ### IntelliJ IDEA ###
-.idea
+
+# .idea
+*.xml
+*.iml
